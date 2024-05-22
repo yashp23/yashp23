@@ -36,4 +36,4 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashp23&show_icons=true&locale=en" alt="yashp23" /></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=yashp23&" alt="yashp23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashp23&" alt="yashp23" /></p>
