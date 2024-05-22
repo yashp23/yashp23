@@ -1,3 +1,6 @@
+
+![github-header-image (5)](https://github.com/yashp23/yash-parmar/assets/154528132/07294e2d-5993-4d22-92ef-7374d56c82e3)
+
 <h1 align="center">Hi 👋, I'm Yash Parmar</h1>
 <h3 align="center">A passionate for full stack and software developer from India</h3>
 
@@ -31,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashp23&show_icons=true&locale=en&layout=compact" alt="yashp23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashp23&show_icons=true&locale=en" alt="yashp23" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashp23&show_icons=true&locale=en" alt="yashp23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashp23&" alt="yashp23" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=yashp23&" alt="yashp23" /></p>
